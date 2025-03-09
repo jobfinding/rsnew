@@ -1,1 +1,7 @@
-# rsnew
+# rsnew    
+RAM
+MOHAN
+SOHAN
+NAME 
+KAN
+MAMA
